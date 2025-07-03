@@ -5,7 +5,7 @@ Bienvenue sur le dépôt GitHub du site www.safermaths.fr — un espace dédié 
 ## Objectifs
 
 - Proposer des ressources pédagogiques fiables en mathématiques et informatique (cours, exercices, corrigés, vidéos)
-- Valoriser la rigueur, l'exigeance et la clarté intellectuelle dans la démarche scientifique dans ces deux domaines
+- Valoriser la rigueur, l'exigeance et la clarté intellectuelles et pédagogiques dans la démarche scientifique dans ces deux domaines
 - Soutenir les élèves, étudiants, enseignants et passionnés dans leur progression dans ces deux domaines
 
 ## Contenu
